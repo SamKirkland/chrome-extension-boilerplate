@@ -14,9 +14,6 @@
 		"webRequest",
 		"webRequestBlocking"
 	],
-	"externally_connectable": {
-		"matches": ["*://example.com/*"]
-	},
 	"icons": {
 	  "16": "icon-16x16.png",
 	  "19": "icon-19x19.png",
