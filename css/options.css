@@ -1,0 +1,17 @@
+html, body {
+    width: 300px;
+    height: 300px;
+}
+
+.options-header {
+    background: #eee;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.options-footer {
+    position: fixed;
+    z-index: 1;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
