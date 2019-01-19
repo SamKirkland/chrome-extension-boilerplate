@@ -10,7 +10,7 @@
 	},
 	"permissions": [
 		"activeTab",
-		"*://example.com/*",
+		"*://surviv.io/*",
 		"webRequest",
 		"webRequestBlocking"
 	],
